@@ -4,4 +4,4 @@ Run me : `docker run -p80:80 ushamandya/whale-example`
 
 Build me: `docker build -t ushamandya/whale-example .`
 
-做个测试
+zai做个测试
